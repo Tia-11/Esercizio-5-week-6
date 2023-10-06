@@ -1,0 +1,38 @@
+nav img {
+  width: 10em;
+}
+
+footer {
+  margin-top: 7em;
+}
+
+.immagineprof1 {
+  width: 2.4em;
+}
+
+.dropdown-menu div ul li img {
+  width: 10em;
+}
+
+.drop2 {
+  margin-left: 10%;
+}
+@media screen and (min-width: 991px) {
+  .drop2 {
+    margin-left: 80%;
+  }
+}
+@media screen and (min-width: 1295px) {
+  .drop2 {
+    margin-left: 85%;
+  }
+}
+@media screen and (min-width: 1450px) {
+  .drop2 {
+    margin-left: 90%;
+  }
+}
+
+.sez2 img:hover {
+  transform: scale(1.2);
+}

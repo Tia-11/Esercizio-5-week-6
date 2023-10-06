@@ -1,0 +1,41 @@
+.conteiner {
+  width: 99%;
+}
+
+header img {
+  width: 12em;
+}
+
+.div1 {
+  width: 14em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+.p1 {
+  background-color: rgb(108, 117, 125);
+  width: 17rem;
+}
+@media screen and (max-width: 370px) {
+  .p1 {
+    background-color: rgb(33, 37, 41);
+  }
+}
+
+.div2 button {
+  background-color: rgb(33, 37, 41);
+}
+
+.button1 {
+  background-color: rgb(33, 37, 41);
+}
+
+.div2 button:hover {
+  background-color: white;
+}
+
+.button1:hover {
+  background-color: white;
+}/*# sourceMappingURL=profile.css.map */
